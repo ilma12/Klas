@@ -1,0 +1,32 @@
+body{
+    font-family: 'Abel', sans-serif;
+    font-family: 'Sansita', sans-serif;
+    height: 500px;
+}
+.container{
+    display: grid;
+  
+   
+    justify-content: center;
+    align-content: center;
+    
+}
+.naslov{
+    padding: 30px;
+    text-align: center;
+}
+
+.sat{
+    width: 200px;
+    height: 200px;
+}
+.fa{
+    text-decoration: none;
+    color: white;
+    padding-top: 30px;
+    height: 30px;
+    width: 30px;
+}
+.copyright{
+    padding-bottom: 10px;
+}

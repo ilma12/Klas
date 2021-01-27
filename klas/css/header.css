@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+}
+/*header*/
+.header{
+    font-family: 'Xanh Mono', monospace;
+    margin: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ea2027;
+    width: 100%;
+    height: 100px;
+    color: white ;
+}
+ .header .label a{
+    text-align: center;
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+   
+   
+    
+}
+/*stavljanje boje na slova*/
+.header .label a:hover{
+    cursor: pointer;
+    color: yellow;
+}
+/*search*/
+ .search{
+     border: none;
+    padding-left: 150px;
+    color: black;
+    width: 200px;
+}
+input{
+    width: 200px;
+   
+}
+
+/*slika loga velicina*/
+svg{
+    padding-top: 40px;
+    width: 700px;
+    height: 300px;
+    
+}
+.header-onama{
+    font-family: 'Xanh Mono', monospace;
+    margin: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ea2027;
+    width: 100%;
+    height: 100px;
+    color: white ;
+}
+.header-onama .label a{
+    text-align: center;
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+   
+   
+    
+}
